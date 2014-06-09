@@ -1,7 +1,12 @@
 
-**********************************************************************************************
-AIML (Artificial Intelligence Markup Language, pour chatbot) adapté pour la langue française
-**********************************************************************************************
+*note sur cette documentation : le fichier source d'origine est le fichier README.t2t, tandis que le fichier README.rst est une exportation automatiquement générée.*
+
+
+**************************************
+AIML adapté pour la langue française
+**************************************
+
+AIML (Artificial Intelligence Markup Language) est un langage pour écrire des robots de discussion.
 
 
 - Cette version est actuellement un dérivé de FrenchAIML-2006-03-06 disponible ici http://aitools.org/Free_AIML_sets, qui semble la dernière version francophone disponible publiquement.
