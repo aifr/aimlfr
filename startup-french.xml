@@ -1,0 +1,26 @@
+<aiml version="1.0">
+
+<!-- This category works with the Standard AIML Set -->
+<category>
+<pattern>LOAD AIML B</pattern>
+<template>
+
+<!-- Load standard AIML set -->
+<learn>standard-fr/atomique_ed.aiml</learn>
+<learn>standard-fr/comment_ed.aiml</learn>
+<learn>standard-fr/estu_ed.aiml</learn>
+<learn>standard-fr/humour_ed.aiml</learn>
+<learn>standard-fr/ou_ed.aiml</learn>
+<learn>standard-fr/pourquoi_ed.aiml</learn>
+<learn>standard-fr/quand_ed.aiml</learn>
+<learn>standard-fr/quel_ed.aiml</learn>
+<learn>standard-fr/questceque_ed.aiml</learn>
+<learn>standard-fr/qui_ed.aiml</learn>
+<learn>standard-fr/srai_ed.aiml</learn>
+<learn>standard-fr/std-pickup-fr.aiml</learn>
+<learn>standard-fr/that_ed.aiml</learn>
+
+</template>
+</category>
+
+</aiml>
